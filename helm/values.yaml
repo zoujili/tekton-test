@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: harbor.allsite.alipay.net/xizhe/devops-demo:v0.1.0
+  repository: harbor.allsite.alipay.net/xizhe/devops-demo
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
 
